@@ -1,0 +1,35 @@
+# Build output
+/build/
+/Core/**/build/
+out/
+
+# Unreal Engine (project will live in Game/SplitReality)
+Game/**/Binaries/
+Game/**/Intermediate/
+Game/**/Saved/
+Game/**/DerivedDataCache/
+Game/**/.vs/
+Game/**/*.sln
+Game/**/.idea/
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Packaged builds
+Build/Packaged/
+*.apk
+*.aab
+*.obb
+
+# Editors / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Node (future Backend/WebClient)
+node_modules/
+.env
+.env.*
