@@ -13,7 +13,7 @@ unless the owner objects) · **Owner decision** (blocked on approval).
 | D-06 | Android starts after PC slice acceptance with a 2-week rendering spike | Owner decision | Four dynamic lighting rigs are the hardest part to bring to mobile |
 | D-07 | Identity of the figure at the end of Chapter 1 (Elara vs Nyra) | Owner decision | Elara pays off "her true fate is a mystery"; Nyra sets up Ch3 |
 | D-08 | Proposed canon additions (anchor crew, MORROW's origin, backward warning, Kael's early start, frozen citizens) | Owner decision | STORY_BIBLE.md "Proposed" section |
-| D-09 | **Provide a UE5 workstation** (Windows, DX12 GPU ≥ 8 GB VRAM, 32–64 GB RAM) and pin the engine version | Owner action | Nothing visual or engine-side can be built or verified without it |
+| D-09 | **Provide a UE5 workstation** (Windows, DX12 GPU ≥ 8 GB VRAM, 32–64 GB RAM) and pin the engine version | Owner action: in progress (2026-11-13: owner is acquiring a machine) | Nothing visual or engine-side can be built or verified without it |
 | D-10 | PC rendering: Lumen + Nanite + VSM + TSR on High/Epic, Lumen-off Low tier | Recommended | Required for runtime-switchable lighting per reality |
 | D-11 | Replication: legacy replication + `IsNetRelevantFor` for the slice; Iris later if needed | Recommended | Simpler and well documented at 4 players |
 | D-12 | No Gameplay Ability System, no World Partition in the slice | Recommended | Complexity without benefit at slice scope; revisit in Phase 6 |
